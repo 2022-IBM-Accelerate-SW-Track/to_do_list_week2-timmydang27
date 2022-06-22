@@ -18,10 +18,9 @@ export default class About extends Component {
         </div>
         <div className="split right">
           <div className="centered">
-            <div className="name_title">Your Name</div>
+            <div className="name_title">Timmy Dang</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+              Hello! My name is Timmy Dang and I'm a rising junior studying computer science at MIT. Currently, I'm a data science intern at OM1. In my free time, I enjoy going on runs and fencing. Fun fact, I'm actually on the Varsity Fencing Team at MIT!
             </div>
           </div>
         </div>
